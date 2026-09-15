@@ -3,8 +3,10 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)
-![Status](https://img.shields.io/badge/preprint-in%20progress-orange)
-![src](https://img.shields.io/badge/src-under%20development-lightgrey)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![PyTorch Geometric](https://img.shields.io/badge/PyTorch%20Geometric-3C2179)
+![Transformers](https://img.shields.io/badge/%F0%9F%A4%97%20Transformers-HuggingFace-yellow)
+![RDKit](https://img.shields.io/badge/RDKit-cheminformatics-blue)
 
 ## Overview
 
@@ -52,9 +54,14 @@ Full numerical results: [`results/`](./results) (publication-formatted tables an
 - **Minoo La** — Korea University Business School *(corresponding author)*
 - **Sai Thet Hmuu** — School of Biosystems and Biomedical Sciences, Korea University
 
-## Citation
-
-Preprint in progress — citation details will be added here once available.
+## References
+ 
+- Hansen, K., Mika, S., Schroeter, T., Sutter, A., ter Laak, A., Steger-Hartmann, T., Heinrich, N., & Müller, K.-R. (2009). [Benchmark Data Set for in Silico Prediction of Ames Mutagenicity](https://pure.korea.ac.kr/en/publications/benchmark-data-set-for-in-silico-prediction-of-ames-mutagenicity/). *Journal of Chemical Information and Modeling*, 49(9), 2077–2081.
+- Rao, J., Zheng, S., Lu, Y., & Yang, Y. (2022). [Quantitative evaluation of explainable graph neural networks for molecular property prediction](https://doi.org/10.1016/j.patter.2022.100628). *Patterns*, 3(12), 100628.
+- Chithrananda, S., Grand, G., & Ramsundar, B. (2020). [ChemBERTa: Large-Scale Self-Supervised Pretraining for Molecular Property Prediction](https://huggingface.co/papers/2010.09885). *arXiv:2010.09885*.
+- Xu, K., Hu, W., Leskovec, J., & Jegelka, S. (2019). [How Powerful are Graph Neural Networks?](https://arxiv.org/html/1810.00826v3) *International Conference on Learning Representations (ICLR)*.
+- Sundararajan, M., Taly, A., & Yan, Q. (2017). [Axiomatic Attribution for Deep Networks](https://arxiv.org/abs/1703.01365). *Proceedings of the 34th International Conference on Machine Learning (ICML)*, PMLR 70:3319–3328.
+- Huang, K., Fu, T., Gao, W., Zhao, Y., Roohani, Y., Leskovec, J., Coley, C. W., Xiao, C., Sun, J., & Zitnik, M. (2021). [Therapeutics Data Commons: Machine Learning Datasets and Tasks for Drug Discovery and Development](https://arxiv.org/abs/2102.09548). *NeurIPS 2021 Datasets and Benchmarks Track*.
 
 ## License
 
