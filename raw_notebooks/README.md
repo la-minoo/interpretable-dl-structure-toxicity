@@ -1,6 +1,6 @@
 # Raw Notebooks
 
-Original Kaggle notebooks, in chronological order. These are the actual executed notebooks, for the full narrative.
+Original Kaggle notebooks, in chronological order. These are the actual executed notebooks with outputs, for the full narrative.
 
 | Notebook | Phases covered |
 |---|---|
