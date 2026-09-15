@@ -26,11 +26,11 @@ Full numerical results: [`results/`](./results) (publication-formatted tables an
 ├── README.md
 ├── LICENSE
 ├── requirements.txt
-├── raw_notebooks/     # Original executed Kaggle notebooks (idl-project1/2/3)
+├── raw_notebooks/      # Original executed Kaggle notebooks (idl-project1/2/3)
 ├── src/                # Clean, phase-organized pipeline code — UNDER DEVELOPMENT
 ├── figures/            # Publication figure generation (matplotlib + RDKit)
 ├── results/            # Complete numerical results: docx tables + CSVs
-└── data/               # Pointers to externally-hosted attributions/metrics (Kaggle)
+└── data/               # Some attributions, metrics from both models
 ```
 
 **Note on `src/`:** the executed pipeline currently lives in `raw_notebooks/` (three notebooks covering Phases 1–7, with real outputs). Cleaned, reusable versions of this code, organized one file per phase, are planned for `src/` but not yet uploaded — check `raw_notebooks/README.md` for which notebook covers which phases in the meantime.
