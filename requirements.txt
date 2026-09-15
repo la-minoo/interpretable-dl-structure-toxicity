@@ -1,0 +1,23 @@
+# Core ML / chemistry
+torch
+torch_geometric
+transformers
+captum
+rdkit
+PyTDC
+
+# Analysis / stats
+numpy
+scipy
+scikit-learn
+pandas
+
+# Visualization
+matplotlib
+
+# Utilities
+huggingface_hub
+
+# Notes:
+# - Developed as to be able to run on free-tier Kaggle notebooks (GPU: T4 x2 / P100).
+# - rdkit is installed with --no-deps on Kaggle to avoid a numpy version conflict that breaks scipy/sklearn.
